@@ -1,7 +1,7 @@
 const sumar = require('./sumar.js');
 const restar = require('./restar.js');
-const multiplicar = require('./');
-const dividir = require('./');
-const resto = require('./');
+const multiplcar = require('./multiplicacion.js');
+const dividir = require('./division.js');
+const modulo = require('./modulo.js');
 
-console.log(multiplicar(0,0));
+console.log(sumar(6,2));
