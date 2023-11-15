@@ -4,4 +4,4 @@ const multiplcar = require('./multiplicacion.js');
 const dividir = require('./division.js');
 const modulo = require('./modulo.js');
 
-console.log(sumar(6,2));
+console.log(dividir(6,2));
