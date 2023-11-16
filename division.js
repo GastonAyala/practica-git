@@ -1,3 +1,5 @@
-function division(a,b){
+const dividir = function (a,b){
     return a/b;
 }
+
+module.exports = dividir;
